@@ -1,5 +1,5 @@
 streamlit
-joblib
+cloudpickle
 xgboost
 shap
 scikit-learn
